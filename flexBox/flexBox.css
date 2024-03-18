@@ -2,11 +2,14 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    width: 400px;
+   
 }
 
 .menu {
     margin-top: 10px;
-    margin-left: auto;}
+    margin-left: 1200px;
+}
 
 .menu ul {
     display: flex;
